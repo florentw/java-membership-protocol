@@ -1,0 +1,6 @@
+[CRASH LEADER, 2 MACHINES SUR L'ANNEAU]
+
+MSWatcherActive::FAULT DETECTION -> LEADER FAILURE
+MSView::printGlobalWiew :
++ Group #0 - MIP: 235.227.114.35 - GID: -337415645
+|-> Node : #0 - Name: ari-31-201-05.infop6.jussieu.fr - ID: 1.2103334736312066E22 - IP: 132.227.114.37

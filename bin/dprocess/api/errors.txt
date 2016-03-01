@@ -1,0 +1,38 @@
+=== main() ===
+
+DPClient::Can't initialize socket  ===>  PAS TEST
+DPClient::Error while reading API message   =====>  OK
+DPClient::Error while writing answer on API client socket   ====>  OK
+DPClient::Error while closing API client socket  =====>   PAS TEST
+DPClient::Error while accepting client from API  =====>  OK
+
+
+=== DPClient() ===
+
+DPClient::Can't export remote callback  ====> PAS TEST
+DPClient::Callback initialisation failed  ====> OK
+
+
+=== sendServerRequest() ===
+
+SendServerRequest::Can't read object ====> 
+SendServerRequest::Can't initialize connection with server  ====> 
+
+
+=== treatAPIRequest() ===
+
+TreatAPIRequest::Wrong argument count for rexec  ===>
+TreatAPIRequest::Wrong argument count for rkill  ====>
+TreatAPIRequest::This pid doesn't exists :  ===>
+TreatAPIRequest::Wrong argument count for rexit ====>
+TreatAPIRequest::Too many arguments for rwait command ===>
+TreatAPIRequest::Too many arguments for rlist  ===>
+
+
+=== getAPIMessage() ===
+
+GetAPIMessage::Can't read on socket  ====>
+GetAPIMessage::Message is empty  ===>
+GetAPIMessage::Type is empty ===>
+GetAPIMessage::Wrong length for message ===>
+

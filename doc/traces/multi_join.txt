@@ -1,0 +1,24 @@
+2463035@ari-31-201-04:~/psar/bin$ java membership.MSMain
+MSMain: Starting new member: ID: 1.2103347199662065E22 - IP: 132.227.114.36
+MSWatcherActiveListener::Starting
+MSControllerJoin::Waiting for response.
+MSView::printGlobalWiew :
++ Group #0 - MIP: 235.227.114.35 - GID: -337415645
+|-> Node : #0 - Name: ari-31-201-04.infop6.jussieu.fr - ID: 1.2103347199662065E22 - IP: 132.227.114.36
+MSView::printGlobalWiew :
+MSTimeout::Timeout reached
++ Group #0 - MIP: 235.227.114.35 - GID: -337415645
+|-> Node : #0 - Name: ari-31-201-05.infop6.jussieu.fr - ID: 1.2103347190582066E22 - IP: 132.227.114.37
+MSControllerJoin::Leader found / Starting membership...
+
+2463035@ari-31-201-05:~/psar/bin$ java membership.MSMain
+MSMain: Starting new member: ID: 1.2103347190582066E22 - IP: 132.227.114.37
+MSWatcherActiveListener::Starting
+MSControllerJoin::Waiting for response.
+MSTimeout::Timeout reached
+MSControllerJoin::Join timeout expired / Starting election...
+MSControllerElection::Election started
+MSTimeout::Timeout reached
+MSControllerElection::Election winned / Starting leader...
+MSControllerGlobal::Start 1st-level watching
+

@@ -1,0 +1,21 @@
+Faute de la machine MEMBER 132.227.114.36
+
+[MACHINE 132.227.114.38]
+
+MSWatcherActive::FAULT DETECTION -> MEMBER FAILURE #132.227.114.36
+MSControllerLeader::FAULTY - Removing node #1.2103335486122065E22
+MSView::printGlobalWiew :
++ Group #0 - MIP: 235.227.114.35 - GID: -337415645
+|-> Node : #0 - Name: ari-31-201-06.infop6.jussieu.fr - ID: 1.0 - IP: 132.227.114.38
+|-> Node : #1 - Name: ari-31-201-05.infop6.jussieu.fr - ID: 1.2103334736312066E22 - IP: 132.227.114.37
+MSControllerLeader:Broadcasting modified membership view to 2nd level
+MSWatcherActive::Starting, watching: 132.227.114.37
+MSTimeout::Timeout reached
+MSWatcherPassive::Checking for faulty
+ 
+[MACHINE 132.227.114.37]
+MSControllerMember::Updating view
+MSView::printGlobalWiew :
++ Group #0 - MIP: 235.227.114.35 - GID: -337415645
+|-> Node : #0 - Name: ari-31-201-06.infop6.jussieu.fr - ID: 1.0 - IP: 132.227.114.38
+|-> Node : #1 - Name: ari-31-201-05.infop6.jussieu.fr - ID: 1.2103334736312066E22 - IP: 132.227.114.37

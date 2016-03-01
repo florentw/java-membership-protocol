@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/users/nfs/Etu9/2571689/PSAR/jogl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/users/Etu9/2571689/PSAR"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/users/nfs/Etu9/2571689/PSAR/vecmath.jar"/>
+	<classpathentry kind="lib" path="/users/nfs/Etu9/2571689/PSAR/vldocking_2.1.4.jar"/>
+	<classpathentry kind="lib" path="/users/nfs/Etu9/2571689/PSAR/gluegen-rt.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

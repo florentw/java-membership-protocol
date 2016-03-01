@@ -1,0 +1,9 @@
+MSMain: Starting new member: ID: 1.2103334736312066E22 - IP: 132.227.114.37
+MSWatcherActiveListener::Starting
+MSControllerJoin::Waiting for response.
+MSTimeout::Timeout reached
+MSControllerJoin::Join timeout expired / Starting election...
+MSControllerElection::Election started
+MSTimeout::Timeout reached
+MSControllerElection::Election winned / Starting leader...
+MSControllerGlobal::Start 1st-level watching

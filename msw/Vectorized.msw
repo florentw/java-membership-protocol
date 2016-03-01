@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<VLDocking version="2.1">
+<DockingDesktop name="">
+<DockingPanel>
+<Split orientation="1" location="0.8334700574241182">
+<Dockable>
+<Key dockName="OpenGL"/>
+</Dockable>
+<TabbedDockable>
+<Dockable>
+<Key dockName="Infos"/>
+</Dockable>
+<Dockable>
+<Key dockName="Rps"/>
+</Dockable>
+<Dockable>
+<Key dockName="File Explorer"/>
+</Dockable>
+</TabbedDockable>
+</Split>
+</DockingPanel>
+<TabGroups>
+<TabGroup>
+<Dockable>
+<Key dockName="Infos"/>
+</Dockable>
+<Dockable>
+<Key dockName="File Explorer"/>
+</Dockable>
+<Dockable>
+<Key dockName="Rps"/>
+</Dockable>
+</TabGroup>
+</TabGroups>
+</DockingDesktop>
+</VLDocking>

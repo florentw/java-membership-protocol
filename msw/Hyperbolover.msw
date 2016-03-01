@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<VLDocking version="2.1">
+<DockingDesktop name="">
+<DockingPanel>
+<Dockable>
+<Key dockName="OpenGL"/>
+</Dockable>
+</DockingPanel>
+<Border zone="1">
+<Dockable>
+<Key dockName="File Explorer"/>
+<RelativePosition x="0.8404088020324707" y="0.0" w="0.07940251380205154" h="0.7752161622047424" />
+</Dockable>
+</Border>
+<Border zone="3">
+<Dockable>
+<Key dockName="Infos"/>
+<RelativePosition x="0.837729811668396" y="0.0" w="0.162270188331604" h="0.7752161622047424" />
+</Dockable>
+<Dockable>
+<Key dockName="Rps"/>
+<RelativePosition x="0.0" y="0.8818444013595581" w="1.0" h="0.11815562099218369" />
+</Dockable>
+</Border>
+<TabGroups>
+</TabGroups>
+</DockingDesktop>
+</VLDocking>
