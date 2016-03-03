@@ -1,3 +1,9 @@
+
+## Disclaimer ##
+
+Development is frozen and codeline dates back 2009.
+This source code is licensed under the GPL v3.
+
 ## Abstract ##
 
 jmmp is a java implementation of a membership protocol using [multicast](http://en.wikipedia.org/wiki/Multicast).
